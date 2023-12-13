@@ -1,3 +1,5 @@
+//Function is a set of statements that performs a task or calculates a value.
+
 var x = 1;
 a();
 b();
